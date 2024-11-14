@@ -1,0 +1,126 @@
+09:34:10.961 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:34:15.231 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:34:20.528 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:34:20.555 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:34:20.967 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:34:20.983 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:34:21.106 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:34:21.172 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:34:24.727 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:34:25.035 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:34:28.051 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:34:32.665 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:34:32.703 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:34:32.764 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:34:32.792 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:34:32.901 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:34:33.009 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:34:35.487 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:40:08.961 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:40:12.538 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:40:16.963 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:40:17.011 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:40:17.080 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:40:17.113 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:40:17.235 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:40:17.333 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:40:19.698 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:40:19.947 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:40:23.623 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:40:27.210 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:40:27.237 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:40:27.301 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:40:27.336 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:40:27.451 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:40:27.569 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:40:30.579 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:57:18.198 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:57:21.535 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:57:26.250 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:57:26.279 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:57:26.347 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:57:29.168 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:57:32.205 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:57:36.218 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:57:36.249 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:57:36.312 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:57:36.342 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:57:36.464 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:57:36.576 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:57:38.934 [main]INFO  stepDefinations.StepDef - *****Clicked on logout Button*****
+09:57:49.678 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:57:50.130 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:57:52.881 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:57:56.465 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:57:56.497 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:57:56.557 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:57:56.586 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:57:56.711 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:57:56.814 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:57:59.146 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:57:59.351 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:58:01.815 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:58:06.131 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:58:06.163 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:58:06.223 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:58:06.254 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:58:06.380 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:58:06.483 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:58:08.776 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:59:03.705 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:59:06.678 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:59:09.861 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:59:09.897 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:59:09.975 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:59:10.177 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:59:13.030 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:59:16.756 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:59:16.788 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:59:16.925 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+09:59:16.953 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+09:59:17.096 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+09:59:17.161 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+09:59:20.043 [main]INFO  stepDefinations.StepDef - *****Clicked on logout Button*****
+09:59:24.678 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:59:24.960 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:59:31.219 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:59:31.233 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:59:36.827 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:59:42.947 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:59:47.106 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+09:59:51.248 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+09:59:51.289 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+09:59:51.358 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+09:59:54.278 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+09:59:57.526 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+10:00:01.757 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+10:00:01.791 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+10:00:01.857 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+10:00:01.889 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+10:00:02.023 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+10:00:02.119 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+10:00:04.537 [main]INFO  stepDefinations.StepDef - *****Clicked on logout Button*****
+10:00:15.506 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+10:00:15.943 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+10:00:18.644 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+10:00:22.863 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+10:00:22.893 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+10:00:22.952 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+10:00:22.989 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+10:00:23.112 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+10:00:23.201 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+10:00:25.580 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+10:00:25.765 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+10:00:28.186 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+10:00:32.153 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+10:00:32.181 [main]INFO  stepDefinations.StepDef - *****Click on login Link*****
+10:00:32.243 [main]INFO  stepDefinations.StepDef - *****Login Page Displayed*****
+10:00:32.276 [main]INFO  stepDefinations.StepDef - *****Enter UserName*****
+10:00:32.398 [main]INFO  stepDefinations.StepDef - *****Enter Password*****
+10:00:32.500 [main]INFO  stepDefinations.StepDef - *****Clicked on Login Button*****
+10:00:45.126 [main]INFO  stepDefinations.StepDef - *****Close Browser*****
+10:24:19.214 [main]INFO  stepDefinations.StepDef - ****Open Browser****
+10:24:22.350 [main]INFO  stepDefinations.StepDef - *****Open URL*****
+10:24:26.960 [main]INFO  stepDefinations.StepDef - *****Validate logo*****
+10:24:36.998 [main]INFO  stepDefinations.StepDef - *****Logo Validation Failed*****
+10:24:37.008 [main]INFO  stepDefinations.StepDef - *****Close Browser*****

@@ -9,8 +9,8 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		
 		//features=".//Features/",//to run all feature files
-		//features=".//Features/landingpage.feature",//to run particular feature file
-		features=".//Features/loginDDT.feature",//to run particular feature file
+		features=".//Features/landingpage.feature",//to run particular feature file
+		//features=".//Features/loginDDT.feature",//to run particular feature file
 		//features=".//Features/login.feature",
 		//features={".//Features/login.feature",".//Features/landingpage.feature"},//to run multiple specific feature files
 		glue="stepDefinations",

@@ -12,4 +12,3 @@ When user enter username as "Debabrata1"
 And user enter password as "Password16$"
 And user click on login button
 And logged out from application
-And close the browser

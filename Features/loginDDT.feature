@@ -11,7 +11,7 @@ Then login page should be displayed
 When user enter username as "<username>"
 And user enter password as "<password>"
 And user click on login button
-And close the browser
+
 
 Examples:
 | username | password |

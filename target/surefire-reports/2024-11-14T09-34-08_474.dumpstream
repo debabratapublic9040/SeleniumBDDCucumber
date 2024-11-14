@@ -1,0 +1,5 @@
+# Created at 2024-11-14T09:34:09.021
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Debabrata Rout\Java\lib\tools-1.5.0.jar'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

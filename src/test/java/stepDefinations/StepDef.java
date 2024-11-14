@@ -1,18 +1,26 @@
 package stepDefinations;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
+import java.util.Date;
 import java.util.Properties;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+
+import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -141,10 +149,20 @@ public class StepDef extends BaseClass{
 		logger.info("*****Clicked on logout Button*****");
 		WorkflowHP.clickOnLogoutLink();
 	}
-	
-	@And("close the browser")
-	public void close_the_browser() {
+	@After
+	public void tearDown(Scenario sc) {
 		logger.info("*****Close Browser*****");
+		if(sc.isFailed()==true)
+		{
+            String timeStamp=new SimpleDateFormat("yyyyMMddHHmmss").format(new Date());
+			
+			TakesScreenshot takesScreenshot= (TakesScreenshot)driver;
+			File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);//get path
+			String targetFilePath =System.getProperty("user.dir")+"\\screenshots\\"+timeStamp+".png";
+			File targetfile=new File(targetFilePath);
+			sourceFile.renameTo(targetfile);
+			
+		}
 		driver.quit();
 	}
 
